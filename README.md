@@ -4,6 +4,8 @@ An AI-powered research assistant built with **LangChain, Groq, and Tavily**.
 
 The system takes a research topic, searches the web for relevant information, gathers additional content, generates a structured research report, and evaluates the final report using a critic.
 
+**[Try the Live Demo](https://langchain-multiagent-research-system.onrender.com/)**
+
 ## Architecture
 
 The pipeline consists of:
